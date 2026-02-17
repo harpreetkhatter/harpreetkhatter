@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>• Improving my full-stack development skills and building scalable web applications<br>• Strengthening my problem-solving and software engineering fundamentals<br><br>👯 I’m looking to collaborate on<br>• Full-stack web development projects<br>• Open-source contributions related to frontend or backend development<br>• Modern web applications using JavaScript ecosystems<br><br>🤝 I’m looking for help with<br>• Advanced backend architecture and system design<br>• Writing clean, maintainable, and production-ready code<br>• Best practices for building scalable applications<br><br>🌱 I’m currently learning<br>• Data Structures and Algorithms to improve problem-solving skills<br>• Advanced frontend and backend development concepts<br>• Software design patterns and real-world engineering practices<br><br>💬 Ask me about<br>• Full Stack Web Development<br>• JavaScript, React, Node.js, and REST APIs<br>• Databases, backend development, and application architecture<br>• Getting started with development and improving coding skills<br><br>⚡ Fun fact<br>• I enjoy learning new technologies and continuously improving my development skills to build impactful software 🚀<br>
+💫 About Me
+
+🔭 Building scalable web and mobile applications using MERN stack and React Native<br>
+🌱 Learning Data Structures and advanced backend development<br>
+👯 Open to collaborating on full-stack, mobile, and open-source JavaScript projects<br>
+💬 Ask me about React, React Native, Node.js, REST APIs, and backend development<br>
+⚡ Passionate about building real-world products and growing as a software engineer 🚀<br>
 
 
 ## 🌐 Socials:
